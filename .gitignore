@@ -1,0 +1,8 @@
+*.pdf
+*.docx
+*.url
+*.avi
+*.mat
+*.asv
+Traffic_Sign_Recognition_Dataset/
+BDD100K-Subset/
